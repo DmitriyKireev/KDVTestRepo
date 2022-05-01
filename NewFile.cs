@@ -11,7 +11,7 @@ namespace OcelotApiGw
 {
     public class Startup
     {
-        public string hi = "Hellofrom cheboornet";
+        public string hi = "Hello from dk";
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
