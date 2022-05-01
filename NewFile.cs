@@ -11,6 +11,7 @@ namespace OcelotApiGw
 {
     public class Startup
     {
+//         "Changed by cheboorenet"
         public string hi = "Hello from cheboornet 222";
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
@@ -24,6 +25,7 @@ namespace OcelotApiGw
         {
             if (env.IsDevelopment())
             {
+//                 "Changed by cheboorenet 1"
                 app.UseDeveloperExceptionPage();
             }
 
